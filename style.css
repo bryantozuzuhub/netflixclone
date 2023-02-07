@@ -15,9 +15,20 @@
 }
 
 .top_copy {
-    border: 1px solid blue;
-    margin: 35px;
     padding: 40px;
     text-align: center;
     font-size: 35px;
+}
+h4 {
+    margin: 0px;
+}
+.input {
+    height: 70px;
+    width: 500px;
+    color: white;
+}
+
+button {
+    font-size: 20px;
+    margin: 5px;
 }
