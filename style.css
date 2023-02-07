@@ -3,7 +3,21 @@
     color: white;
 }
 
+.logo {
+    font-size: 50px;
+    color: red;
+}
 .login {
     text-align: right;
-    font-size: 50px;
+}
+.lang {
+    text-align: right;
+}
+
+.top_copy {
+    border: 1px solid blue;
+    margin: 35px;
+    padding: 40px;
+    text-align: center;
+    font-size: 35px;
 }
