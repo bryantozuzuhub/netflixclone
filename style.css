@@ -33,7 +33,8 @@ button {
     margin: 5px;
 }
 
-.second-container {
+.second-container,
+.third-container {
     text-align: center;
     font-size: 40px;
     margin: 0px;
